@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-image: url(img/pattern.png);
+    background-color: rgb(96, 160, 248);
+    height: 150px;
+    position: relative;
+}
+
+#logo{
+    width: 250px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
