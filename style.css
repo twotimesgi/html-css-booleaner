@@ -2,6 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
 }
+
 header{
     background-image: url(img/pattern.png);
     background-color: rgb(96, 160, 248);
@@ -9,9 +10,58 @@ header{
     position: relative;
 }
 
+section{
+    margin-bottom: 20px;
+}
+
 #logo{
     width: 250px;
     position: absolute;
     bottom: 20px;
     left: 20px;
+}
+
+#caption{
+    font-size: 15px;
+}
+
+main{
+    padding: 0px 10px 0px 10px;
+}
+    
+h1{
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+    
+#author{
+    font-size: 20px;
+    color: gray;
+}
+
+#date{
+    font-size: 10px;
+    color: gray;
+}
+
+#author>a{
+    color:rgb(77, 168, 224);
+    text-decoration: none;
+}
+
+.highlighted{
+    background-color: yellow;
+}
+
+thead{
+    background-color: rgb(77, 168, 224);
+    color: white;
+}
+
+.blue{
+    background-color: rgb(187, 228, 240);
+}
+
+.white{
+    background-color: white;;
 }
