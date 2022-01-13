@@ -15,7 +15,7 @@ header{
     position: relative;
 }
 
-section{
+div{
     margin-bottom: 20px;
 }
 
@@ -106,4 +106,12 @@ thead{
 
 #related2{
     background-image: url(img/graph.jpg);
+}
+
+.column-small{
+    width: 25%;
+}
+
+.column-large{
+    width: 50%;
 }
