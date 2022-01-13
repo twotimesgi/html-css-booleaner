@@ -10,6 +10,11 @@ header{
     position: relative;
 }
 
+main, footer{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 section{
     margin-bottom: 20px;
 }
@@ -35,9 +40,6 @@ table, td, th{
     font-size: 15px;
 }
 
-main{
-    padding: 0px 10px 0px 10px;
-}
     
 h1{
     margin-bottom: 0px;
@@ -80,9 +82,6 @@ thead{
     background-color: white;;
 }
 
-footer{
-    padding: 10px 10px 0px 10px;
-}
 
 #related-text{
     color: gray;
