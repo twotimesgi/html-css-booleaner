@@ -103,11 +103,11 @@ thead{
 }
 
 #related1{
-    background-image: url(img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
 }
 
 #related2{
-    background-image: url(img/graph.jpg);
+    background-image: url(../img/graph.jpg);
 }
 
 .column-small{
